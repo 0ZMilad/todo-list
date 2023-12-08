@@ -1,4 +1,4 @@
-# todo-list
+# todo-list V2 SOON
 User-friendly web application for organizing and saving to-do lists, with the added feature of local storage. This application offers a visually appealing UI that enhances the experience of adding tasks.
 
 ## Features
@@ -12,3 +12,5 @@ User-friendly web application for organizing and saving to-do lists, with the ad
 * CSS3: For styling the app.
 * JavaScript: To handle the interactive functionality of the app.
 * Local Storage: To save todos for persistent data across browser sessions.
+
+Note V2 version of this task tracker will be added soon to github.
